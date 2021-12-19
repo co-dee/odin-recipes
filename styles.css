@@ -1,0 +1,23 @@
+body {
+    background: home-bg.jpg;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+h1,
+ul,
+li {
+    font-family: Arial, Helvetica, sans-serif;  
+    color: whitesmoke;
+    text-align: center;
+}
+
+h1 {
+    font-stretch: extra-expanded;
+    font-size:100px;
+}
+
+ul {
+    list-style: none;
+    font-size:25px;
+}
